@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<fulfillmentToken fulfillmentType="buy" xmlns="http://ns.adobe.com/adept">
+<distributor>urn:uuid:00000000-0000-0000-0000-000000000001</distributor>
+<operatorURL>http://books.google.com/books/acs4/fulfillment</operatorURL>
+<expiration>2021-02-19T10:09:01-08:00</expiration>
+<transaction>ge:03720211-68b7-1952-2383-7f7af9b877f0:1613757241011736</transaction>
+<userId>18244550571041557323</userId>
+<resourceItemInfo>
+<resource>urn:uuid:03720211-68b7-1952-2383-7f7af9b877f0</resource>
+<resourceItem>1</resourceItem>
+<src>https://books.google.com/books/download/ECISM_2017_11th_European_Conference_on_I.pdf?acsid=urn:uuid:03720211-68b7-1952-2383-7f7af9b877f0&amp;output=acs4_book_bytes&amp;ar=75cd9b871d4ffaee39b748e8612d1f48</src>
+<downloadType>simple</downloadType>
+</resourceItemInfo>
+<hmac>4X+KIUrjiToH440nujv2ckc8BEE=</hmac>
+</fulfillmentToken>
