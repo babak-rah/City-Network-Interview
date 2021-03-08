@@ -17,3 +17,6 @@ The assignment submitted in partial fulfilment of the Information Systems, Maste
 
 ## Contemporary Issues in IS Research & Development (CIISRD) Assignment
 The assignment submitted in partial fulfilment of the Information Systems, Master Programme for the subject of Contemporary Issues in IS Research & Development (CIISRD) to Linnaeus University with the title of “Big Data and Supervised Machine Learning”. The assignment was graded “A” by the respective examiner.
+
+## List of Projects Completed
+The attached file includes the recent project completed at Asia Pacific University of Technology & Innovation (APU)
